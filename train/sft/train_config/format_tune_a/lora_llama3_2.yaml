@@ -1,0 +1,9 @@
+# config.yaml
+task_type: TaskType.CAUSAL_LM
+target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+inference_mode: False
+r: 16
+lora_alpha: 32
+
+
+

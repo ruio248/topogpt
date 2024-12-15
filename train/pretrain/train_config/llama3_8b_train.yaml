@@ -1,0 +1,13 @@
+# config.yaml
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+logging_steps: 100
+learning_rate: 0.001
+remove_unused_columns: false
+adam_epsilon: 0.0001
+num_train_epochs: 20
+save_strategy: epoch
+logging_dir: ./logs
+output_dir: /work/HUGGINGFACE/model/trained_model/continue_pretrain/llama3_8b_lora
+# resume_from_checkpoint: True
+

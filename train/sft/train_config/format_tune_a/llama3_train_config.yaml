@@ -1,0 +1,24 @@
+# config.yaml
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 1
+logging_steps: 100
+learning_rate: 0.0001
+remove_unused_columns: false
+adam_epsilon: 0.0001
+num_train_epochs: 20
+save_strategy: epoch
+# resume_from_checkpoint: True
+output_dir: /data/work/HUGGINGFACE/model/trained_model/format_tune
+logging_dir: /data/work/ruioliao/topo_agent/tensorboard/format_tune
+report_to: tensorboard
+
+
+
+
+
+
+
+
+
+
+
