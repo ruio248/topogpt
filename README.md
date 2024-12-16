@@ -1,6 +1,14 @@
- # Topogpt  [![Build Status](https://travis-ci.org/quanshengwu/wannier_tools.svg?branch=master)](https://travis-ci.org/quanshengwu/wannier_tools)  [![codecov](https://codecov.io/gh/quanshengwu/wannier_tools/branch/master/graph/badge.svg)](https://codecov.io/gh/quanshengwu/wannier_tools)
+# Topogpt  
+*An advanced tool leveraging large language models for solving scientific problems in topological materials.*
 
-![Topogpt-logo](images/logo.jpg "Topogpt logo")
+![License](https://img.shields.io/github/license/ruio248/topogpt)
+![Domain Knowledge](https://img.shields.io/badge/Task-Domain_Knowledge_Leaderboard-red)
+![Transformers](https://img.shields.io/badge/Built_with-Transformers-blue)
+
+
+<img src="images/logo.jpg" alt="Topogpt logo" title="Topogpt logo" width="200"/>
+
+
 
 ## Introduction
 **topogpt** is a project focused on building a domain-specific large model for the field of topological materials. Compared to other fields like law or healthcare, the domain of topological materials is much more complex, filled with intricate concepts. Therefore, building a domain-specific large model can better serve this field. 
@@ -31,3 +39,7 @@ The research questions we aim to address include:
 
 ## To Do
 - Currently, V1 of the project only includes part of the code. The complete source code will be released after the paper is finalized.
+
+
+
+
