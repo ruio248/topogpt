@@ -1,0 +1,27 @@
+[
+    {
+        "text": "Water is a polar molecule composed of two hydrogen atoms and one oxygen atom.",
+        "question": "What is the chemical formula of water?",
+        "answer": "Water, a widely recognized substance, has the chemical formula H2O. It is formed by two hydrogen atoms covalently bonded to one oxygen atom. This combination makes it essential for life and a solvent for many chemical reactions.",
+    },
+    {
+        "text": "Sodium chloride is an ionic compound consisting of sodium and chloride ions.",
+        "question": "What is the common name for sodium chloride?",
+        "answer": "The common name for sodium chloride, which is an ionic compound formed by sodium (Na+) and chloride (Cl-) ions, is table salt. It is widely used in cooking, preservation, and various industrial processes.",
+    },
+    {
+        "text": "Carbon dioxide is a colorless gas composed of one carbon atom and two oxygen atoms.",
+        "question": "What is the role of carbon dioxide in photosynthesis?",
+        "answer": "In photosynthesis, carbon dioxide (CO2) serves as a key reactant. Plants absorb CO2 through their stomata and, with the help of sunlight and chlorophyll, convert it into glucose (a type of sugar) and oxygen, which are crucial for their survival and growth.",
+    },
+    {
+        "text": "Glucose is a simple sugar with the molecular formula C6H12O6.",
+        "question": "What type of molecule is glucose?",
+        "answer": "Glucose, classified as a carbohydrate, is a monosaccharide and a crucial energy source for living organisms. Its molecular formula is C6H12O6, and it is commonly found in plants and animals.",
+    },
+    {
+        "text": "Hydrogen is the lightest element and exists as a diatomic gas under standard conditions.",
+        "question": "What is the molecular formula for hydrogen gas?",
+        "answer": "Hydrogen gas, the simplest and lightest molecule in the universe, exists as H2 under standard conditions. It consists of two hydrogen atoms bonded together and is highly flammable and widely used in industrial applications.",
+    }
+]

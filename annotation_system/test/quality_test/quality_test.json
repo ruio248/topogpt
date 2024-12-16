@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Explain the difference between supervised and unsupervised learning.",
+        "answer": "Supervised learning uses labeled data to train models, while unsupervised learning works with unlabeled data.",
+        "quality": null
+    },
+    {
+        "instruction": "What is reinforcement learning?",
+        "answer": "Reinforcement learning is a type of machine learning where agents learn by interacting with an environment.",
+        "quality": null
+    },
+    {
+        "instruction": "Describe the purpose of a confusion matrix.",
+        "answer": "A confusion matrix summarizes classification performance by showing true positives, false positives, false negatives, and true negatives.",
+        "quality": null
+    }
+]

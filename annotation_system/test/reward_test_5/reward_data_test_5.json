@@ -1,0 +1,72 @@
+[
+    {
+        "index": "0",
+        "text": "1",
+        "answer_1": "real_data_0_1",
+        "answer_2": "real_data_0_2",
+        "answer_3": "real_data_0_3",
+        "answer_4": "real_data_0_4",
+        "answer_5": "real_data_0_5",
+        "rank_1": "answer_1",
+        "rank_2": "answer_3",
+        "rank_3": "answer_2",
+        "rank_4": "answer_4",
+        "rank_5": "answer_5"
+    },
+    {
+        "index": "1",
+        "text": "2",
+        "answer_1": "real_data_1_1",
+        "answer_2": "real_data_1_2",
+        "answer_3": "real_data_1_3",
+        "answer_4": "real_data_1_4",
+        "answer_5": "real_data_1_5",
+        "rank_1": "answer_1",
+        "rank_2": "answer_3",
+        "rank_3": "answer_2",
+        "rank_4": "answer_4",
+        "rank_5": "answer_5"
+    },
+    {
+        "index": "2",
+        "text": "3",
+        "answer_1": "real_data_2_1",
+        "answer_2": "real_data_2_2",
+        "answer_3": "real_data_2_3",
+        "answer_4": "real_data_2_4",
+        "answer_5": "real_data_2_5",
+        "rank_1": "answer_1",
+        "rank_2": "answer_3",
+        "rank_3": "answer_2",
+        "rank_4": "answer_4",
+        "rank_5": "answer_5"
+    },
+    {
+        "index": "3",
+        "text": "4",
+        "answer_1": "real_data_3_1",
+        "answer_2": "real_data_3_2",
+        "answer_3": "real_data_3_3",
+        "answer_4": "real_data_3_4",
+        "answer_5": "real_data_3_5",
+        "rank_1": "answer_5",
+        "rank_2": "answer_4",
+        "rank_3": "answer_3",
+        "rank_4": "answer_2",
+        "rank_5": "answer_1"
+    },
+    {
+        "index": "4",
+        "text": "5",
+        "answer_1": "real_data_4_1",
+        "answer_2": "real_data_4_2",
+        "answer_3": "real_data_4_3",
+        "answer_4": "real_data_4_4",
+        "answer_5": "real_data_4_5",
+        "rank_1": "answer_4",
+        "rank_2": "answer_2",
+        "rank_3": "answer_3",
+        "rank_4": "answer_1",
+        "rank_5": "answer_5"
+    }
+]
