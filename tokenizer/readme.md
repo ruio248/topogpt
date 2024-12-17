@@ -78,7 +78,7 @@ tokenizer/
 3. **Vocabulary Quality**:
    - The quality of the expanded vocabulary heavily influences performance. It depends on:
      - **The data quality** of the training corpus.
-     - **The efficiency of the tokenization algorithm** (Unigram vs. BPE).
+     - **The efficiency of the tokenization algorithm** .
 
 4. **Balancing Token Coverage**:
    - Overfitting to domain-specific tokens may reduce generalization capability.
