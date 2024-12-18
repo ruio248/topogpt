@@ -5,7 +5,7 @@ import json5
 from tool import Tools
 import sys
 import torch
-sys.path.append('/work/ruioliao/topo_agent/model_manage')
+sys.path.append('/topogpt/model_manage')
 from infer_register_cl import ModelInfer_Cl
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from react_template import*
