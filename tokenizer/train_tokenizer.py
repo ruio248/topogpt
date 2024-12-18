@@ -71,12 +71,13 @@ class SentencePieceTrainer:
 
 if __name__ == "__main__":
     
-    INPUT_DIR = "/work/HUGGINGFACE/llm_train_data/instruct_data"  
-    MODEL_PREFIX = "/work/ruioliao/topo_agent/tokenizer/physic_instruct_2"  
-    VOCAB_SIZE = 30000  
-    CHARACTER_COVERAGE = 1.0  
-    MODEL_TYPE = "unigram"  
-    INPUT_FILE = "/work/HUGGINGFACE/llm_train_data/instruct_data/train_tokenizer.txt"  # Path to single input file
+    INPUT_DIR = "/path/to/data/instruct_data"
+    MODEL_PREFIX = "/path/to/model/tokenizer/physic_instruct_2"
+    VOCAB_SIZE = 30000
+    CHARACTER_COVERAGE = 1.0
+    MODEL_TYPE = "unigram"
+    INPUT_FILE = "/path/to/data/instruct_data/train_tokenizer.txt"  # Path to single input file
+
 
     # Initialize the trainer
     trainer = SentencePieceTrainer(
