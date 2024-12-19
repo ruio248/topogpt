@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+    <img src="images/logo.jpg" alt="Topogpt logo" title="Topogpt logo" width="300"/>
+</div>
+
+
 # Topogpt  
 *An advanced tool leveraging large language models for solving scientific problems in topological materials.*
 
@@ -6,7 +11,7 @@
 ![Transformers](https://img.shields.io/badge/Built_with-Transformers-blue)
 
 
-<img src="images/logo.jpg" alt="Topogpt logo" title="Topogpt logo" width="200"/>
+
 
 
 
